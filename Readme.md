@@ -1,0 +1,1 @@
+https://tuantestingonly.auth.us-east-1.amazoncognito.com/login?response_type=code&client_id=7otrj3fst7t6gqvqbphg5clmrq&redirect_uri=http://localhost:3000&state=STATE&
